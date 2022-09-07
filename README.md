@@ -1,9 +1,7 @@
 
 Microscopic Neuron image segmentation using different conventional and  DL based methods
 
-Required Packages-
-
-python version- 3.7
+Required Packages - python version- 3.7
 
 HDF5 -conda install -c anaconda hdf5
 
